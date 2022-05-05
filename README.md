@@ -26,6 +26,6 @@ Following are a few concepts you would be using:
 HTML, CSS, JS, and ReactJS
 
 ## SCREENSHOTS
-![Result](https://user-images.githubusercontent.com/69767685/166874313-11249033-0943-483d-859e-772edb4c22d2.jpg)
+![Result](https://user-images.githubusercontent.com/69767685/166875286-f2eb9aac-616e-4f4c-a350-3f10836cbbc1.jpg)
 
 Test Cases passed successfully.
